@@ -1,4 +1,4 @@
-# Crawlee Web Scraper
+# ScrapeMaster : Crawlee Web Scraper
 
 This project is a web scraper built using the [Crawlee](https://crawlee.dev/) framework, which is a popular open-source web scraping library for Node.js. The primary purpose of this project is to demonstrate how Crawlee can be used to extract data from websites and provide insights into their content and structure.
 
